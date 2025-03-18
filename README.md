@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Murat Sinmez - Software Developer 🌟
+Merhaba, ben Murat Sinmez!  
+📌 Java & Spring Boot Geliştiricisiyim.  
+📌 Backend ve Test Otomasyonu konularına ilgim var.  
+📌 Yazılım dünyasında kendimi sürekli geliştiriyorum! 🚀  
 
-<!--
-**muratsinmez/muratsinmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Kullandığım Teknolojiler
+- 💻 Java | Spring Boot | Hibernate | MySQL | PostgreSQL  
+- 🌐 HTML | CSS | JavaScript | React  
+- 🛠 Selenium | TestNG | JUnit | REST API  
 
-Here are some ideas to get you started:
+## 🌍 Bana Ulaşın:
+[![LinkedIn]]([https://www.linkedin.com/in/muratsinmez](https://www.linkedin.com/in/murat-sinmez-980185225/))  
+📩 **E-posta:** muratsinmez06@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 GitHub İstatistiklerim:
+![Murat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muratsinmez&show_icons=true&theme=radical)  
