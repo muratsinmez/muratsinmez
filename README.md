@@ -1,7 +1,7 @@
 # 🌟 Murat Sinmez - Junior Java Spring Boot Developer 🌟
 Merhaba, ben Murat Sinmez!  
 📌 Java & Spring Boot Geliştiricisiyim.  
-📌 Backend ve Test Otomasyonu konularına ilgim var.  
+📌 Backend ve Spring Security konularına ilgim var.  
 📌 Yazılım dünyasında kendimi sürekli geliştiriyorum! 🚀  
 
 ## 🚀 Kullandığım Teknolojiler
