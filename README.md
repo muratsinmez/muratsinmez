@@ -5,7 +5,7 @@ Merhaba, ben Murat Sinmez!
 📌 Yazılım dünyasında kendimi sürekli geliştiriyorum! 🚀  
 
 ## 🚀 Kullandığım Teknolojiler
-- 💻 Java | Spring Boot | Hibernate | MySQL | PostgreSQL  
+- 💻 Java | Spring Boot | Hibernate | MySQL  
 - 🌐 HTML | CSS | JavaScript | React  
 - 🛠 Selenium | TestNG | JUnit | REST API  
 
