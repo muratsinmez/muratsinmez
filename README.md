@@ -7,7 +7,7 @@ Merhaba, ben Murat Sinmez!
 ## 🚀 Kullandığım Teknolojiler
 - 💻 Java | Spring Boot | Hibernate | MySQL  
 - 🌐 HTML | CSS | JavaScript | React  
-- 🛠 Selenium | TestNG | JUnit | REST API  
+- 🛠 Selenium | REST API  
 
 ## 🌍 Bana Ulaşın:
 [![LinkedIn]]([https://www.linkedin.com/in/muratsinmez](https://www.linkedin.com/in/murat-sinmez-980185225/))  
