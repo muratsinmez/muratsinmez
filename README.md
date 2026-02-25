@@ -15,4 +15,4 @@ Merhaba, ben Murat Sinmez!
 📩 **E-posta:** muratsinmez06@gmail.com  
 
 ## 📌 GitHub İstatistiklerim:
-![Murat's GitHub Stats](https://github.readme-stats.vercel.app/api?username=muratsinmez&show_icons=true&theme=radical)
+![Murat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muratsinmez&show_icons=true&theme=radical)
