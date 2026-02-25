@@ -30,4 +30,14 @@ Merhaba, ben Murat Sinmez!
 
 ## 📌 GitHub İstatistiklerim:
 
-![Murat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muratsinmez&show_icons=true&theme=radical)  
+<div align="left">
+  <a href="https://github.com/muratsinmez">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=muratsinmez&show_icons=true&theme=radical" alt="Murat's GitHub Stats" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://github.com/muratsinmez">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muratsinmez&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
