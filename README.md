@@ -22,7 +22,7 @@ Merhaba, ben Murat Sinmez!
 
 ## 🌍 Bana Ulaşın:
 
-[![LinkedIn]]([https://www.linkedin.com/in/muratsinmez](https://www.linkedin.com/in/murat-sinmez-980185225/))  
+[[![LinkedIn]]([https://www.linkedin.com/in/muratsinmez](https://www.linkedin.com/in/murat-sinmez-980185225/))  ](https://www.linkedin.com/in/murat-sinmez-980185225/)
 
 📩 **E-posta:** muratsinmez06@gmail.com  
 
